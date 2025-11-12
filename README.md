@@ -43,3 +43,7 @@ NOTE: No specific tutorial was followed, I watched parts and bits a lot of Unity
 
 - To run the project, open the Unity Hub, click on "Add", and select the project folder. Then open it in Unity Editor.
 
+## For Windows Users
+- Unzip the Build.zip file.
+- Open the extracted folder and run "App2.exe" to start the game.
+
