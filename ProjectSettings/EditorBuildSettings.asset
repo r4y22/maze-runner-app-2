@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 40eb6a9657bf4e84b8f153603dcc5481
+  - enabled: 1
+    path: Assets/Scenes/MainGame.unity
+    guid: 25f82d46eb38a0d44afb93d6cf0aca29
+  - enabled: 1
+    path: Assets/Scenes/MazeComplete.unity
+    guid: 78da62c71b3a9ca45971cca2d12a4d14
+  - enabled: 1
+    path: Assets/Scenes/Leaderboard.unity
+    guid: e6016c1de089a1149b44caf9f0b0aed2
+  m_configObjects: {}
